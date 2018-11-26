@@ -1,6 +1,6 @@
 {
-  "name": "proyect",
-  "short_name": "proyect",
+  "name": "comunicationApp",
+  "short_name": "comunicationApp",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
